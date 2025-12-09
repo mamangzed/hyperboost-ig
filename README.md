@@ -1,2 +1,2 @@
 # hyperboost-ig
-tools foor instagram automation
+tools for instagram automation
